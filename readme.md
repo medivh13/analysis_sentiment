@@ -4,20 +4,20 @@ This project is a simple implementation of sentiment analysis using Python. The 
 
 ## Folder Structure
 
-analysis_sentiment/
-│
-├── app.py
-├── requirements.txt
-├── domain/
-│ ├── sentiment_model.py
-├── services/
-│ ├── sentiment_service.py
-├── controllers/
-│ ├── sentiment_controller.py
-├── models/
-│ ├── train_model.py
-└── data/
-└── dataset.csv
+- analysis_sentiment/
+- │
+- ├── app.py
+- ├── requirements.txt
+- ├── domain/
+- │ ├── sentiment_model.py
+- ├── services/
+- │ ├── sentiment_service.py
+- ├── controllers/
+- │ ├── sentiment_controller.py
+- ├── models/
+- │ ├── train_model.py
+- └── data/
+- └── dataset.csv
 
 
 ## Installation
